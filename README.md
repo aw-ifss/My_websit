@@ -1,20 +1,35 @@
 <!DOCTYPE html>
+
 <html>
 <head>
-    <title>My First Web Page</title>
-    <style>
-        body {
-            background-color: pink;
-            text-align: center;
-            margin-top: 100px;
-        }
-        h1 {
-            color: blue;
-            font-family: Arial, sans-serif;
-        }
-    </style>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>AMM Page</title>
+  
+  <style>
+ h1{font-size: 55px; color: red;
+
+}
+  body{
+
+    background:gold
+    
+  }
+  
+  .table{
+    background:red;
+  }
+  </style>
 </head>
-<body>
-    <h1>Welcome to my first web page</h1>
+<body   >
+  <h1>
+    <h1>My Page</h1>
+    <p>to whreat the pragraphe used Tag p </p>
+    
+    
+    <table border="6" class="table"> 
+      <th>My name</th>
+      <th>My Code</th>
+      <tr><td> اسماء وسام علي<td>  20230244 </td></td></tr>
+    </table>
 </body>
 </html>
