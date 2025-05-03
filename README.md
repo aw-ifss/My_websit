@@ -3,7 +3,7 @@
 <html>
 <head>
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
-  <title>AMM Page</title>
+  <title>my Page</title>
   
   <style>
  h1{font-size: 55px; color: red;
